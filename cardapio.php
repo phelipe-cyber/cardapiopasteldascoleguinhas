@@ -47,7 +47,9 @@ while ($rows_cardapio = mysqli_fetch_assoc($cardapio)) {
       </div>
       <div class="card-footer">
       <font color="blue"  >
-        <small class=""><?php echo "R$ ". ($rows_cardapio['preco_venda']) ?></small>
+          <h3>
+              <small class=""><?php echo "R$ ". ($rows_cardapio['preco_venda']) ?></small>
+            </h3>
     </font>
     </div>
     </div>
