@@ -10,13 +10,13 @@
 
 <body>
 
-  <div style="text-align: left" width="auto" height="auto" >
-    <img src="image/cardapio_1.jpeg" alt="image/cardapio_1.jpeg" width="auto" height="auto" >
+  <div style="text-align: left" width="100%" height="100%" >
+    <img src="image/cardapio_1.jpeg" alt="image/cardapio_1.jpeg" width="100%" height="100%" >
 </div>
 
   <div style="text-align: left;" >
   
-   <img src="image/cardapio_2.jpeg" alt="image/cardapio_2.jpeg" width="auto" height="auto">
+   <img src="image/cardapio_2.jpeg" alt="image/cardapio_2.jpeg" width="100%" height="100%">
   
 </div>
 
