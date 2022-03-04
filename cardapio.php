@@ -10,16 +10,15 @@
 
 <body>
 
-<div class="card" >
-  <div class="card-body">
+
+  <div style="text-align: left;" >
     <img src="image/cardapio_1.jpeg" alt="image/cardapio_1.jpeg" width="750px" height="650px" >
-  </div>
 </div>
 
-<div class="card" >
-  <div class="card-body">
-    <img src="image/cardapio_2.jpeg" alt="image/cardapio_2.jpeg" width="750px" height="650px">
-  </div>
+  <div style="text-align: left;" >
+  
+   <img src="image/cardapio_2.jpeg" alt="image/cardapio_2.jpeg" width="750px" height="650px">
+  
 </div>
 
 
