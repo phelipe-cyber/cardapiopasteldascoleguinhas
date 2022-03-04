@@ -20,7 +20,7 @@
 
 <body>
 
-<div class="card "  >
+<div class="card  noticias" >
   <div class="card-body">
     <img src="image/cardapio_1.jpeg" alt="image/cardapio_1.jpeg" id="noticias" >
   </div>
