@@ -28,8 +28,8 @@ while ($rows_cardapio = mysqli_fetch_assoc($cardapio)) {
 
 <div class="col">
     <div class="card h-100" style="width: 20rem;">
-      <!-- <img src="<?php echo $rows_cardapio['image'] ?>" class="card-img-top" alt="<?php echo $rows_cardapio['image'] ?>"> -->
-      <img src="mvc/common/img/lanche/kisabor.png"  height="270px" class="card-img-top" alt="mvc/common/img/lanche/kisabor.png">
+      <img src="<?php echo $rows_cardapio['image'] ?>" class="card-img-top" alt="<?php echo $rows_cardapio['image'] ?>">
+      <!-- <img src="mvc/common/img/lanche/kisabor.png"  height="270px" class="card-img-top" alt="mvc/common/img/lanche/kisabor.png"> -->
       <div class="card-body">
         <h5 class="card-title"><?php echo utf8_encode($rows_cardapio['nome']) ?></h5>
         <p class="card-text"><?php echo utf8_encode($rows_cardapio['detalhes']) ?></p>
