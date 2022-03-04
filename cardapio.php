@@ -11,15 +11,15 @@
 
 <body>
 
-<div class="card " width="200px" height="150px" >
+<div class="card "  >
   <div class="card-body">
-    <img src="image/cardapio_1.jpeg" alt="image/cardapio_1.jpeg">
+    <img src="image/cardapio_1.jpeg" alt="image/cardapio_1.jpeg" width="200px" height="150px" >
   </div>
 </div>
 
-<div class="card" width="200px" height="150px">
+<div class="card" >
   <div class="card-body">
-    <img src="image/cardapio_2.jpeg" alt="image/cardapio_2.jpeg">
+    <img src="image/cardapio_2.jpeg" alt="image/cardapio_2.jpeg" width="200px" height="150px">
   </div>
 </div>
 
