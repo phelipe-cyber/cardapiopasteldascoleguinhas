@@ -27,7 +27,7 @@
 </div>
 <br>
 
-<div class="card">
+
     <div class="card-body">
 
         <div class="row row-cols-1 row-cols-md-3 g-4">
@@ -67,4 +67,3 @@
 ?>
 
             </div>
-        </div>
