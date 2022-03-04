@@ -8,15 +8,35 @@
     <title>Cardápio Pastel das Coleguinhas</title>
 </head>
 
+<style>
+.container {
+width: 100vw;
+height: 100vh;
+background: #6C7A89;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+}
+.box {
+width: 300px;
+height: 300px;
+background: #fff;
+}
+body {
+margin: 0px;
+}
+</style>
+
 <body>
 
-<div class="card " style="width: 18rem;" >
+<div class="card " id="container" >
   <div class="card-body">
     <img src="image/cardapio_1.jpeg" alt="image/cardapio_1.jpeg">
   </div>
 </div>
 
-<div class="card" style="width: 18rem;">
+<div class="card" id="container">
   <div class="card-body">
     <img src="image/cardapio_2.jpeg" alt="image/cardapio_2.jpeg">
   </div>
