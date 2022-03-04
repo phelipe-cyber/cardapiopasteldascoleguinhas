@@ -10,13 +10,13 @@
 
 <body>
 
-<div class="card">
+<div class="card " style="width: 18rem;" >
   <div class="card-body">
     <img src="image/cardapio_1.jpeg" alt="image/cardapio_1.jpeg">
   </div>
 </div>
 
-<div class="card">
+<div class="card" style="width: 18rem;">
   <div class="card-body">
     <img src="image/cardapio_2.jpeg" alt="image/cardapio_2.jpeg">
   </div>
