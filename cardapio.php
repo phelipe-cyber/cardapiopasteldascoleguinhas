@@ -45,7 +45,7 @@
             ?>
 
                 <div class="col">
-                    <div class="card h-100" style="width: 20rem;">
+                    <div class="card h-100" style="width: 25rem;">
                         <img src="<?php echo $rows_cardapio['image'] ?>" class="card-img-top" alt="<?php echo $rows_cardapio['image'] ?>">
                         <!-- <img src="mvc/common/img/lanche/kisabor.png"  height="270px" class="card-img-top" alt="mvc/common/img/lanche/kisabor.png"> -->
                         <div class="card-body">
@@ -65,6 +65,6 @@
                 <?php
             }
 ?>
-            
+
             </div>
         </div>
