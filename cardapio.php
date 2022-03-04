@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
+  <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Cardápio Pastel das Coleguinhas</title>
@@ -41,12 +42,12 @@ while ($rows_cardapio = mysqli_fetch_assoc($cardapio)) {
       <img src="<?php echo $rows_cardapio['image'] ?>" class="card-img-top" alt="<?php echo $rows_cardapio['image'] ?>">
       <!-- <img src="mvc/common/img/lanche/kisabor.png"  height="270px" class="card-img-top" alt="mvc/common/img/lanche/kisabor.png"> -->
       <div class="card-body">
-        <h5 class="card-title"><?php echo utf8_encode($rows_cardapio['nome']) ?></h5>
-        <p class="card-text"><?php echo utf8_encode($rows_cardapio['detalhes']) ?></p>
+        <h5 class="card-title"><?php echo ($rows_cardapio['nome']) ?></h5>
+        <p class="card-text"><?php echo ($rows_cardapio['detalhes']) ?></p>
       </div>
       <div class="card-footer">
       <font color="blue"  >
-        <small class=""><?php echo "R$ ". utf8_encode($rows_cardapio['preco_venda']) ?></small>
+        <small class=""><?php echo "R$ ". ($rows_cardapio['preco_venda']) ?></small>
     </font>
     </div>
     </div>
