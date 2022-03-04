@@ -10,7 +10,7 @@
 
 <body>
 
-  <div style="text-align: left;" >
+  <div style="text-align: left" width="auto" height="auto" >
     <img src="image/cardapio_1.jpeg" alt="image/cardapio_1.jpeg" width="auto" height="auto" >
 </div>
 
