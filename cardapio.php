@@ -12,12 +12,12 @@
 <body>
 
   <div style="text-align: left" width="100%" height="100%" >
-    <img src="image/cardapio_1.jpeg" alt="image/Cardapio.png" width="100%" height="100%" >
+    <img src="image/Cardapio.png" alt="image/Cardapio.png" width="100%" height="100%" >
 </div>
 
   <div style="text-align: left;" >
   
-   <img src="image/cardapio_2.jpeg" alt="image/Cardapio_2.png" width="100%" height="100%">
+   <img src="image/Cardapio_2.png" alt="image/Cardapio_2.png" width="100%" height="100%">
   
 </div>
 
