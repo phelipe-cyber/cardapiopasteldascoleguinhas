@@ -17,7 +17,7 @@
 
   <div style="text-align: left;" >
   
-   <img src="image/cardapio_2.jpeg" alt="image/cardapio_2.png" width="100%" height="100%">
+   <img src="image/cardapio_2.jpeg" alt="image/Cardapio_2.png" width="100%" height="100%">
   
 </div>
 
